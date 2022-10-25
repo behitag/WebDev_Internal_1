@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.avatar {
+  background: url("/images/avatar.jpg");
+  width: 300px;
+  position: absolute;
+  left: 700px;
+  top:570px;
+}
+
+.backPic {
+  background: url("/images/backPic.jpg");
+  width: 1000px;
+}
+
+.myName {
+  color: darkgray;
+  font-weight: bold;
+  font-family: Tahoma;
+  font-size: 31px;
+  position: absolute;
+  left: 250px;
+  top:600px;
+}
+
+.aboutMe {
+  color: darkgray;
+  font-weight: bold;
+  font-family: Tahoma;
+  font-size: 12px;
+  position: absolute;
+  left: 250px;
+  top:660px;
+}
+
+.githubLogo {
+  position: absolute;
+  left: 250px;
+  top:900px;
+  width: 30px;
+}
+
+.githubText {
+  color: darkgray;
+  position: absolute;
+  left: 290px;
+  top:895px;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+
+.whatsappLogo {
+  position: absolute;
+  left: 650px;
+  top:900px;
+  width: 30px;
+}
+
+.whatsappText {
+  color: darkgray;
+  position: absolute;
+  left: 700px;
+  top:895px;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+
